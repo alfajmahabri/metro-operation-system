@@ -15,6 +15,7 @@ Managing seating capacity is vital for a smooth passenger experience. This featu
 Keeping track of ticket sales is essential for both operational and financial purposes. This feature provides administrators with a comprehensive list of tickets sold, offering insights into passenger trends and revenue generation. It facilitates efficient record-keeping and enables data-driven decision-making for better metro network management.
 
 <strong>SYSTEM ARCHITECTURE </strong>
+![image](https://github.com/alfajmahabri/metro-operation-system/assets/84325001/c11a2711-b441-4b37-9a61-67a31a8c4860)
 
 <strong>MODULES</strong>
 
